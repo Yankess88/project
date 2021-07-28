@@ -1,3 +1,8 @@
+This imsiCheck program now works only for polish operators but in future I plan to add other countries.
+
+
+
+
 Program służący do sprawdzania do jakiego operatora jest przypisany numer IMSI.
 v0.3, stan bazy na dzień 28.07.2021r.
 
